@@ -22,8 +22,6 @@ GT honor code violation.
 -----do not edit anything above this line---  		   	  			    		  		  		    	 		 		   		 		  
   		   	  			    		  		  		    	 		 		   		 		  
 Student Name: Patrick Baginski (replace with your name)
-GT User ID: pbaginski3
-GT ID: 903383289 (replace with your GT ID)
 """
 
 import datetime as dt
@@ -41,7 +39,7 @@ class StrategyLearner(object):
         self.impact = impact
 
     def author(self):
-        return 'pbaginski3'
+        return 'omitted'
 
     def create_learning_dataframe(self, stock_prices):
         symbol = stock_prices.columns[1]

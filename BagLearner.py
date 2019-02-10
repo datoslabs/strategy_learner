@@ -41,7 +41,7 @@ class BagLearner(object):
 
     # Adding my Georgia Tech ID
     def author(self):
-        return 'pbaginski3'
+        return 'omitted'
 
     # As found in chosen answer under for np random choice
     # https://stackoverflow.com/questions/14262654/numpy-get-random-set-of-rows-from-2d-array

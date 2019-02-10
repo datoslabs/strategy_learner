@@ -1,0 +1,19 @@
+__init__.py
+__init__.pyc
+__pycache__
+~$report.docx
+~WRL0447.tmp
+comments.txt
+experiment1_tbl
+experiment2_tbl
+Figures/
+Indicator Figures
+indicators.pyc
+ManualStrategy.pyc
+marketsimcode.pyc
+points.txt
+report.docx
+RTLearner.pyc
+StrategyLearner.pyc
+util.pyc
+.pytest_cache/

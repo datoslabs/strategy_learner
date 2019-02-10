@@ -35,7 +35,7 @@ class RTLearner(object):
 
     # Adding my Georgia Tech ID
     def author(self):
-        return 'pbaginski3'
+        return 'omitted'
 
     # This is the function to build the data set which we will pass to the build_tree function
     def addEvidence(self, dataX, dataY):

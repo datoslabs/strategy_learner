@@ -18,3 +18,4 @@ StrategyLearner.pyc
 util.pyc
 .pytest_cache/
 BagLearner.pyc
+grade_strategy_learner.py

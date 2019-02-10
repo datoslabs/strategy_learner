@@ -20,9 +20,9 @@ GT honor code violation.
 
 -----do not edit anything above this line---
 
-Student Name: Patrick Baginski (replace with your name)
-GT User ID: pbaginski3
-GT ID: 903383289 (replace with your GT ID)
+Student Name: omitted (replace with your name)
+GT User ID: omitted
+GT ID: omitted (replace with your GT ID)
 """
 
 import pandas as pd
@@ -30,7 +30,7 @@ from util import get_data
 
 
 def author():
-    return 'pbaginski3'
+    return 'omitted'
 
 
 def get_norm_data(data):

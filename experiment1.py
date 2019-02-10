@@ -21,8 +21,8 @@ GT honor code violation.
 -----do not edit anything above this line---
 
 Student Name: Patrick Baginski (replace with your name)
-GT User ID: pbaginski3
-GT ID: 903383289 (replace with your GT ID)
+GT User ID: omitted
+GT ID: omitted (replace with your GT ID)
 """
 
 import matplotlib.pyplot as plt
@@ -36,7 +36,7 @@ import pandas as pd
 
 
 def author():
-    return 'pbaginski3'
+    return 'omitted'
 
 
 if __name__ == '__main__':

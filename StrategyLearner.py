@@ -21,7 +21,7 @@ GT honor code violation.
   		   	  			    		  		  		    	 		 		   		 		  
 -----do not edit anything above this line---  		   	  			    		  		  		    	 		 		   		 		  
   		   	  			    		  		  		    	 		 		   		 		  
-Student Name: Patrick Baginski (replace with your name)
+Student Name: omitted (replace with your name)
 """
 
 import datetime as dt

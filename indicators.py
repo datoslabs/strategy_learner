@@ -1,7 +1,7 @@
 """
-Student Name: Patrick Baginski (replace with your name)
-GT User ID: pbaginski3
-GT ID: 903383289 (replace with your GT ID)"""
+Student Name: omitted (replace with your name)
+GT User ID: omitted
+GT ID: omitted (replace with your GT ID)"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -12,7 +12,7 @@ from util import get_data
 
 
 def author():
-    return 'pbaginski3'
+    return 'omitted'
 
 
 def bollinger_value(df, window=20):

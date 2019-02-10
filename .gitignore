@@ -17,3 +17,4 @@ RTLearner.pyc
 StrategyLearner.pyc
 util.pyc
 .pytest_cache/
+BagLearner.pyc
